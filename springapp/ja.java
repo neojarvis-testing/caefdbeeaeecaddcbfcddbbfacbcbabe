@@ -5,5 +5,5 @@ public class ja {
     console.log("vasantgh")
     console.log("jana");
     console.log("metal cutting");
-    console
+    console.log()
 }
